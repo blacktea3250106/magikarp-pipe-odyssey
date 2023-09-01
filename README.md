@@ -1,6 +1,6 @@
 # Flappy Bird Adaptation: Magikarp's Pipe Odyssey
 
-![Gameplay](video/鯉魚王的水管歷險.mp4)
+![Gameplay](video/鯉魚王的水管歷險v2.gif)
 
 ## Overview
 
