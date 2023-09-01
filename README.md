@@ -14,7 +14,7 @@ Can Magikarp defeat the proud Gyarados? Let's find out and witness the transform
 
 ## How to Play
 
-- Use the spacebar or click to make Magikarp flap and navigate through the pipes.
+- Use the spacebar to make Magikarp flap and navigate through the pipes.
 - Your goal is to pass through as many pipes as possible and trigger the special surprise.
 
 ## Installation
